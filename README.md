@@ -1,4 +1,4 @@
-# Web Scraping Deno
+# Web Scraping Demo
 
 The provided Python script is a web scraping tool designed to extract job postings from XYZ.com, an Indian job search website. It utilizes Selenium for browser automation and BeautifulSoup for HTML parsing.
 
